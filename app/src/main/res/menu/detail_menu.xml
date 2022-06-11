@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/openMapDetail"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        app:showAsAction="always"
+        android:title="" />
+    <item
+        android:id="@+id/exportPdf"
+        android:icon="@android:drawable/stat_sys_download"
+        android:title=""
+        app:showAsAction="always" />
+</menu>
